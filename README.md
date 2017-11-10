@@ -1,3 +1,3 @@
-* Testy do I etapu XXV OI
+# Testy do I etapu XXV OI
 
 Przeczytaj pliki README w folderach zadań.
